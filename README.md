@@ -1,2 +1,2 @@
 # hello-world
-Just saying hello
+Practice repo for Free Code Camp ..
